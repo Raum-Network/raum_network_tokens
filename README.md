@@ -1,7 +1,5 @@
 # raum_network_tokens
-Raum Network ERC20 tokens for the starknet
-
-An ERC20 comprises the following major methods:
+Raum Network ERC20 tokens for the starknet. An ERC20 comprises the following major methods:
 
 name() -> (name: felt) — which returns the name of the token.
 
